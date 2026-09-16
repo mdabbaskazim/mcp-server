@@ -137,4 +137,4 @@ The client then formats the content into a more readable answer for the user.
 
 ## License
 
-This project does not currently include a license file. If you plan to publish it publicly, consider adding one such as MIT or Apache 2.0.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
